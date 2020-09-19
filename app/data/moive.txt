@@ -1,0 +1,101 @@
+Name	ReleaseDate	Action	Adventure	Children	Comedy	Crime	Documentary	Drama	Fantasy	Noir	Horror
+Toy Story (1995)	1995	0	0	1	1	0	0	0	0	0	0
+Jumanji (1995)	1995	0	1	1	0	0	0	0	1	0	0
+Grumpier Old Men (1995)	1995	0	0	0	1	0	0	0	0	0	0
+Waiting to Exhale (1995)	1995	0	0	0	1	0	0	1	0	0	0
+Father of the Bride Part II (1995)	1995	0	0	0	1	0	0	0	0	0	0
+Heat (1995)	1995	1	0	0	0	1	0	0	0	0	0
+Sabrina (1995)	1995	0	0	0	1	0	0	0	0	0	0
+Tom and Huck (1995)	1995	0	1	1	0	0	0	0	0	0	0
+Sudden Death (1995)	1995	1	0	0	0	0	0	0	0	0	0
+GoldenEye (1995)	1995	1	1	0	0	0	0	0	0	0	0
+"American President, The (1995)"	1995	0	0	0	1	0	0	1	0	0	0
+Dracula: Dead and Loving It (1995)	1995	0	0	0	1	0	0	0	0	0	1
+Balto (1995)	1995	0	0	1	0	0	0	0	0	0	0
+Nixon (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Cutthroat Island (1995)	1995	1	1	0	0	0	0	0	0	0	0
+Casino (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Sense and Sensibility (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Four Rooms (1995)	1995	0	0	0	0	0	0	0	0	0	0
+Ace Ventura: When Nature Calls (1995)	1995	0	0	0	1	0	0	0	0	0	0
+Money Train (1995)	1995	1	0	0	0	0	0	0	0	0	0
+Get Shorty (1995)	1995	1	0	0	1	0	0	1	0	0	0
+Copycat (1995)	1995	0	0	0	0	1	0	1	0	0	0
+Assassins (1995)	1995	0	0	0	0	0	0	0	0	0	0
+Powder (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Leaving Las Vegas (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Othello (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Now and Then (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Persuasion (1995)	1995	0	0	0	0	0	0	0	0	0	0
+"City of Lost Children, The (1995)"	1995	0	1	0	0	0	0	0	0	0	0
+Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Dangerous Minds (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Twelve Monkeys (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Wings of Courage (1995)	1995	0	1	0	0	0	0	0	0	0	0
+Babe (1995)	1995	0	0	1	1	0	0	1	0	0	0
+Carrington (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Dead Man Walking (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Across the Sea of Time (1995)	1995	0	0	0	0	0	1	0	0	0	0
+It Takes Two (1995)	1995	0	0	0	1	0	0	0	0	0	0
+Clueless (1995)	1995	0	0	0	1	0	0	0	0	0	0
+"Cry, the Beloved Country (1995)"	1995	0	0	0	0	0	0	1	0	0	0
+Richard III (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Dead Presidents (1995)	1995	1	0	0	0	1	0	1	0	0	0
+Restoration (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Mortal Kombat (1995)	1995	1	1	0	0	0	0	0	0	0	0
+To Die For (1995)	1995	0	0	0	1	0	0	1	0	0	0
+How to Make an American Quilt (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Seven (Se7en) (1995)	1995	0	0	0	0	1	0	0	0	0	0
+Pocahontas (1995)	1995	0	0	1	0	0	0	0	0	0	0
+When Night Is Falling (1995)	1995	0	0	0	0	0	0	1	0	0	0
+"Usual Suspects, The (1995)"	1995	0	0	0	0	1	0	0	0	0	0
+Guardian Angel (1994)	1994	1	0	0	0	0	0	1	0	0	0
+Mighty Aphrodite (1995)	1995	0	0	0	1	0	0	0	0	0	0
+Lamerica (1994)	1994	0	0	0	0	0	0	1	0	0	0
+"Big Green, The (1995)"	1995	0	0	1	1	0	0	0	0	0	0
+Georgia (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Kids of the Round Table (1995)	1995	0	1	1	0	0	0	0	1	0	0
+Home for the Holidays (1995)	1995	0	0	0	0	0	0	1	0	0	0
+"Postino, Il (The Postman) (1994)"	1994	0	0	0	0	0	0	1	0	0	0
+"Confessional, The (Le Confessionnal) (1995)"	1995	0	0	0	0	0	0	1	0	0	0
+"Indian in the Cupboard, The (1995)"	1995	0	1	1	0	0	0	0	1	0	0
+Eye for an Eye (1996)	1996	0	0	0	0	0	0	1	0	0	0
+Mr. Holland's Opus (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)	1996	0	0	0	1	0	0	0	0	0	0
+Two if by Sea (1996)	1996	0	0	0	1	0	0	0	0	0	0
+Bio-Dome (1996)	1996	0	0	0	1	0	0	0	0	0	0
+Lawnmower Man 2: Beyond Cyberspace (1996)	1996	0	0	0	0	0	0	0	0	0	0
+Two Bits (1995)	1995	0	0	0	0	0	0	1	0	0	0
+French Twist (Gazon maudit) (1995)	1995	0	0	0	1	0	0	0	0	0	0
+Friday (1995)	1995	0	0	0	1	0	0	0	0	0	0
+From Dusk Till Dawn (1996)	1996	1	0	0	1	1	0	0	0	0	1
+Fair Game (1995)	1995	1	0	0	0	0	0	0	0	0	0
+Kicking and Screaming (1995)	1995	0	0	0	1	0	0	1	0	0	0
+"Mis?ables, Les (1995)"	1995	0	0	0	0	0	0	1	0	0	0
+Bed of Roses (1996)	1996	0	0	0	0	0	0	1	0	0	0
+Big Bully (1996)	1996	0	0	0	1	0	0	1	0	0	0
+Screamers (1995)	1995	0	0	0	0	0	0	0	0	0	0
+Nico Icon (1995)	1995	0	0	0	0	0	1	0	0	0	0
+"Crossing Guard, The (1995)"	1995	0	0	0	0	0	0	1	0	0	0
+"Juror, The (1996)"	1996	0	0	0	0	0	0	1	0	0	0
+"White Balloon, The (Badkonake Sefid ) (1995)"	1995	0	0	0	0	0	0	1	0	0	0
+Things to Do in Denver when You're Dead (1995)	1995	0	0	0	0	1	0	1	0	0	0
+Antonia's Line (Antonia) (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Once Upon a Time... When We Were Colored (1995)	1995	0	0	0	0	0	0	1	0	0	0
+Last Summer in the Hamptons (1995)	1995	0	0	0	1	0	0	1	0	0	0
+Angels and Insects (1995)	1995	0	0	0	0	0	0	1	0	0	0
+White Squall (1996)	1996	0	1	0	0	0	0	1	0	0	0
+Dunston Checks In (1996)	1996	0	0	1	1	0	0	0	0	0	0
+Black Sheep (1996)	1996	0	0	0	1	0	0	0	0	0	0
+Nick of Time (1995)	1995	1	0	0	0	0	0	0	0	0	0
+"Journey of August King, The (1995)"	1995	0	0	0	0	0	0	1	0	0	0
+Mary Reilly (1996)	1996	0	0	0	0	0	0	1	0	0	0
+Vampire in Brooklyn (1995)	1995	0	0	0	1	0	0	0	0	0	0
+Beautiful Girls (1996)	1996	0	0	0	0	0	0	1	0	0	0
+Broken Arrow (1996)	1996	1	0	0	0	0	0	0	0	0	0
+In the Bleak Midwinter (1995)	1995	0	0	0	1	0	0	0	0	0	0
+"Hate (Haine, La) (1995)"	1995	0	0	0	0	0	0	1	0	0	0
+Shopping (1994)	1994	1	0	0	0	0	0	0	0	0	0
+Heidi Fleiss: Hollywood Madam (1995)	1995	0	0	0	0	0	1	0	0	0	0
+City Hall (1996)	1996	0	0	0	0	0	0	1	0	0	0
+Bottle Rocket (1996)	1996	0	0	0	1	0	0	0	0	0	0
