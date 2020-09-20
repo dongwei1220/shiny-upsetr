@@ -19,6 +19,10 @@ Finally, the shiny-upsetr app will be accessible at http://localhost:3838
 
 # Online availability
 The shiny-upsetr App is freely available at
+> https://dongwei.shinyapps.io/upsetr/
+
+or
+
 > https://hiplot.com.cn/advance/upsetr
 
 ![image.png](https://upload-images.jianshu.io/upload_images/8723194-8267e24061218c0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
