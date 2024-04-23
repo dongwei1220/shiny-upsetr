@@ -28,12 +28,14 @@ or
 ![image.png](https://upload-images.jianshu.io/upload_images/8723194-8267e24061218c0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # Support
-If you have any questions, or found any bug in the program, please write to us at dongw26@mail2.sysu.edu.cn
+If you have any questions, or found any bug in the program, please write to me at dongw26@mail2.sysu.edu.cn
 
 # Citation
 If you use UpSetR in a paper, please cite:
 
 > Jake R Conway, Alexander Lex, Nils Gehlenborg UpSetR: An R Package for the Visualization of Intersecting Sets and their Properties doi: https://doi.org/10.1093/bioinformatics/btx364
+        
+        
 
 The original technique and the interactive visualization tool implementing the approach are described here:
 
@@ -41,3 +43,5 @@ The original technique and the interactive visualization tool implementing the a
 UpSet: Visualization of Intersecting Sets,
 IEEE Transactions on Visualization and Computer Graphics (InfoVis '14), vol. 20, no. 12, pp. 1983–1992, 2014.
 doi: https://doi.org/10.1109/TVCG.2014.2346248
+        
+        
